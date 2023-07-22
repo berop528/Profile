@@ -3,8 +3,8 @@
 ### ID : 6340011008
 
 <p>นี่คือรูปแนวตั้ง</p>
-<img src="assets/Portrait.png"  >
+<img src="assets/Portriat.png"  >
 
 <p>นี่คือรูปแนวนอน</p>
-<img src="picture/Landscape.png"  >
+<img src="assets/Landscape.png"  >
 
